@@ -1,7 +1,7 @@
 # WipeWise
 
 ### What is WipeWise?
-**WipeWise** is the tissue vending machine using a student card instead of cash to reduce the number of people who use it incorrectly, for instance, throwing, playing, or wasting. Also this project was created in a computer and robotics class as the final project of grade 12, semester 1.
+**WipeWise** is the tissue vending machine using a student card instead of cash to reduce the number of people who use it incorrectly, for instance a lawbreaker who throwing, playing, or wasting. Also this project was created in a computer and robotics class as the final project of grade 12, semester 1.
 <br>
 **WipeWise** คือเครื่องจำหน่ายกระดาษทิชชู่ที่ใช้บัตรนักเรียนแทนเงินสด เพื่อลดจำนวนผู้ใช้งานอย่างไม่ถูกต้อง เช่น การขว้างปา การเล่น หรือการสิ้นเปลือง นอกจากนี้ โปรเจ็กต์นี้ยังถูกสร้างขึ้นในชั้นเรียนคอมพิวเตอร์และหุ่นยนต์เป็นโปรเจ็กต์สุดท้ายของชั้นมัธยมศึกษาปีที่ 6 ภาคเรียนที่ 1
 <br>
