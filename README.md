@@ -37,7 +37,9 @@ After the user swipes the student card, the RFID Reader will read that if the ca
 
 ### Demo Video
 
-https://github.com/user-attachments/assets/a89c8bdc-938d-43ce-be13-421c0aae39cd
 
-If video isn't available, I have also uploaded a video on YouTube, and the link is provided below. 
-[Testing Preview Here](https://youtube.com/shorts/vR_VhIOKlVw)
+https://github.com/user-attachments/assets/c5f65b8a-0a29-40f0-97c5-12ac33027478
+
+
+If you want a longer duration of video or video is unavailable, I have also uploaded a video on YouTube, and the link is provided below. 
+[Testing Preview Here](https://youtube.com/shorts/jsc1isLf9dE)
